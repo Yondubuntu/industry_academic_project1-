@@ -1,1 +1,1 @@
-# industry_academic_project1-
+# 연세대학교 산학공동 프로젝트 (2020 Fall 2020. 9 ~ 12 ) x 스탭위포드 솔루션 (김문호 이사님 ) 
