@@ -1,5 +1,6 @@
 # 연세대학교 산학공동 프로젝트 (2020 Fall 2020. 9 ~ 12 ) <br> 
 스탭위포드 솔루션 (김문호 이사님) <br> 
+연세대학교 윤상균 교수님 , 유수연 ,송종후 ,정두용 ,장용주, 이호권
 
 #link : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529590
 
